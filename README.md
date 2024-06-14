@@ -1,1 +1,3 @@
 # Joy-s-TicTacToe
+
+This tic-tac-toe game designed for two players, participants take turns to mark their positions on a 3x3 grid, where the positions range from (1,1) to (3,3). Each player inputs their chosen position coordinates by entering two numbers separated by a space, representing the row and column they wish to mark. The game board is updated after each move, displaying the current state of play. Players alternate turns, attempting to align three of their respective marks (either 'X' or 'O') in a row, column, or diagonal. The game continues until one player successfully aligns three marks and is declared the winner, or all positions are filled resulting in a draw. The game then announces the winner or states that the game is a draw, concluding the match.
